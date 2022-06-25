@@ -16,6 +16,6 @@
 
 <br>
 
-![App Screenshot](https://github.com/subham-04/Portfolio/blob/main/pp.png)
+![App Screenshot](https://github.com/subham-04/Infinite-Scroll/blob/main/inf.png)
 
 
